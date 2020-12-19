@@ -8,6 +8,8 @@
 
     //get all members
     $results = $crud->getMember();
+    
+
 ?>
 
 
@@ -18,7 +20,10 @@
     <th>#</th>
     <th>First Name</th>
     <th>Last Name</th>
+    <th>Address</th>
+    <th>Address</th>
     <th>Services</th>
+    <th>Contact Number</th>
     <th>Actions</th>
 
     </tr>
@@ -28,7 +33,12 @@
       <td><?php echo $r['mem_id'] ?></td>
       <td><?php echo $r['firstname'] ?></td>
       <td><?php echo $r['lastname'] ?></td>
+      <td><?php echo $r['address1'] ?></td>
+      <td><?php echo $r['address2'] ?></td>
       <td><?php echo $r['name'] ?></td>
+      <td><?php echo $r['contactnum'] ?></td>
+
+
       <td>
         <a href="view.php?id=<?php echo $r['mem_id'] ?>" class="btn btn-primary">View</a>
         <a href="edit.php?id=<?php echo $r['mem_id'] ?>" class="btn btn-warning">Edit</a>
