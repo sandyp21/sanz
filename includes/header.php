@@ -28,7 +28,7 @@ session_start();
          background-color: LemonChiffon;
        }
      </style>
-    <title>Home</title>
+    <title>Sanz Soul Therapy</title>
 
   </head>
   <body>
