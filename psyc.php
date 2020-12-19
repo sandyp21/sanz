@@ -12,7 +12,22 @@ require_once 'includes/header.php';
 <div class="container1 text-black">
 
 <div class="row">
+<div class="col-5">
 <div class="col">
+    <div class="card h-100">
+      <img src="uploads/drsoh.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Dr. Jian Soh</h5>
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Psychotherapist</li>
+        <li class="list-group-item">Counsellor</li>
+        <li class="list-group-item">Life Coach</li>
+    </ul>
+    </div>
+  </div>
+</div>
+<div class="col-7">
     <p><h3>What Is Psychotherapy?</h3>
     Also known as talk therapy, psychotherapy aims to help a person understand their feelings 
     and equip them to face new challenges, both in the present and the future. Psychotherapy is similar
@@ -65,6 +80,7 @@ require_once 'includes/header.php';
 
 <div class="row">
 <div class="col">
+    
     <p><h3>How Effective Is Psychotherapy?</h3>
     One of the major criticisms leveled against psychotherapy calls into question its effectiveness. 
     In one early and frequently cited study, a psychologist named Hans Eysenck found that two-thirds 

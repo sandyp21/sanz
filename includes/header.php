@@ -17,6 +17,8 @@ session_start();
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" 
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     
+    
+    <link rel="shortcut icon" type="image/png" href="uploads/favicon.ico.png">
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
      <!-- Stylesheet CSS -->
      
@@ -27,8 +29,12 @@ session_start();
        body{
          background-color: LemonChiffon;
        }
+       .carousel-caption {
+    bottom: 20rem;
+    z-index: 4;
+  }
      </style>
-    <title>Sanz Soul Therapy</title>
+    <title>Sanz Soul Therapy - <?php echo $title ?></title>
 
   </head>
   <body>
@@ -113,17 +119,17 @@ session_start();
         </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="uploads/bg45.jpg" alt="Second Slide">
+      <img class="d-block w-100" src="uploads/bg2.jpg" alt="Second Slide">
       <div class="carousel-caption">
-        <h2>Transform Your Life</h2>
-        <p>“Let nothing hold you back from creating the life you’ve always wanted.” Anonymous</p>
+        <h2 style="color:black;">Transform Your Life</h2>
+        <p style="color:black;">“Let nothing hold you back from creating the life you’ve always wanted.” Anonymous</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="uploads/bgl.jpg" alt="Third Slide">
+      <img class="d-block w-100" src="uploads/bg1.jpg" alt="Third Slide">
       <div class="carousel-caption">
-        <h2>It's All About You</h2>
-        <p>“Its hard to wait around for something you know might never happen; but its harder 
+        <h2 style="color:black;">It's All About You</h2>
+        <p style="color:black;">“Its hard to wait around for something you know might never happen; but its harder 
         to give up when you know its everything you want.” – Unknown</p>
       </div>
     </div>
@@ -138,7 +144,8 @@ session_start();
         <span class="sr-only">Next</span>
       </a>
 </div>
-
+<br>
+<br>
 
 
 

@@ -12,27 +12,50 @@ require_once 'includes/header.php';
 <div class="container1 text-black">
 
 <div class="row">
+<div class="col-5">
 <div class="col">
+    <div class="card h-100">
+      <img src="uploads/drkent.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Dr. Monica Kent</h5>
+        
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Qi Gong Therapist</li>
+        <li class="list-group-item">Reflexologist</li>
+        <li class="list-group-item">Counsellor/Life Coach</li>
+    </ul>
+    
+    </div>
+  </div>
+  </div>
+
+  <div class="col-7">
     <p><h3>What Is Qi Gong?</h3>
     The literal translation of qi gong is “energy work.” It is an Asian form of yoga that has
-        been around for thousands of years. Much of it is performed while standing, though there are
-        a number of seated sets as well. There are hundreds of systems of qi gong that have come from
-        various lineages, and many of them focus on different fields.Many are health oriented,
-            while a separate group comes through the martial arts lineages. 
+    been around for thousands of years. Much of it is performed while standing, though there are
+    a number of seated sets as well. There are hundreds of systems of qi gong that have come from
+    various lineages, and many of them focus on different fields.Many are health oriented,
+    while a separate group comes through the martial arts lineages. 
     </P>
 
     <p>
     These systems act to harness willpower, to focus, and to help practitioners channel their energy
-        through their palms. There are also a number of systems from the temples and monasteries that are
-        more focused on spiritual cultivation and depth of meditation. Some involve moving, and others 
-        are visualization based. Almost all of them involve specialized breathing, which is coordinated
-        with the activity at hand. The guiding principle of all these practices, however, is the 
-        coordination of the eyes with the body movements, the focus of the mind, and the breath,
-        especially for the moving practices. For the more passive, non- movement exercises, 
-        we focus the vision inward and explore the inner realms as we guide the breath to various
-        inner chambers. 
+    through their palms. There are also a number of systems from the temples and monasteries that are
+    more focused on spiritual cultivation and depth of meditation. Some involve moving, and others 
+    are visualization based. Almost all of them involve specialized breathing, which is coordinated
+    with the activity at hand. The guiding principle of all these practices, however, is the 
+    coordination of the eyes with the body movements, the focus of the mind, and the breath,
+    especially for the moving practices. For the more passive, non- movement exercises, 
+    we focus the vision inward and explore the inner realms as we guide the breath to various
+    inner chambers. 
     </p>
-
+    </div>
+</div>
+<div class="container1 text-black">
+    <div class="row">
+    <div class="col">
+        <div class="col">
     <p><h4>The Eyes in Qi Gong</h4>
     In the West, the eyes are considered the gateway to the soul and, in Taoist theory, are believed 
     to guide the shen, or the spirit. It is said that the qi (energy) follows the shen (spirit),
@@ -67,7 +90,9 @@ require_once 'includes/header.php';
 </div>
 </div>
 </div>
-<br>
+</div>
+</div>
+
 
 
 <div class="container1 text-black">
@@ -101,7 +126,7 @@ require_once 'includes/header.php';
     
 </div>
 </div>
-</div>
+
 <br>
 <br>
 

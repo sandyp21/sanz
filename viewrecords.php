@@ -1,6 +1,6 @@
 <?php 
 
-    $title = 'view records';
+    $title = 'View Records';
 
     require_once 'includes/header.php'; 
     require_once 'includes/auth_check.php';
@@ -12,7 +12,9 @@
 
 ?>
 
-
+<h1 class="text-center">Member Record</h1>
+<br>
+<br>
 <table class = 'table'>
     
 
