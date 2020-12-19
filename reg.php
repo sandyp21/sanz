@@ -1,6 +1,6 @@
 <?php 
 
-$title = 'Registration';
+$title = 'registration';
 $page = 'reg';
 
 require_once 'includes/header.php'; 
