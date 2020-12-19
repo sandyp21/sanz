@@ -1,0 +1,14 @@
+#footer-links li a{
+    color: rgb(161, 6, 115);
+}
+
+#footer-links li a:hover{
+    color: yellow;
+}
+
+#footer-links li{
+    list-style-type: none;
+}
+.container1{
+    background-color: rgb(204, 235, 93);
+}
