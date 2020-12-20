@@ -30,7 +30,7 @@ session_start();
          background-color: LemonChiffon;
        }
        .carousel-caption {
-    bottom: 20rem;
+    bottom: 23rem;
     z-index: 4;
   }
      </style>

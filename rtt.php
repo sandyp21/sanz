@@ -14,19 +14,15 @@ require_once 'includes/header.php';
 <div class="row">
 <div class="col-5">
 <div class="col">
-    <div class="card h-100">
-      <img src="uploads/drh.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Dr. Marie Harlinton</h5>
-        <p class="card-text">Dr. Harlinton is a world leading Rapid Transformational Therapist. She hails from the parish of Manchester,
-            where she studied at the Manchester High School. She went on to study at the University of Technology and 
-            The University of the West Indies. Finishing with her Doctorate in Education and Anthropology. She then went 
-        on to realise her calling of becoming an healer by studying under the tuledge on world renown RTT Marisa Peer.
-    Today, Dr Harlington is the only Rapid Transformational Therapist in the Caribbean. Book your appointment with Dr. H and enjoy a life of freedom and happiness.</p>
-      </div>
-      
+        <div class="card h-100">
+        <img src="uploads/drh.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Dr. Marie Harlinton</h5>
+            <p class="card-text">Dr. Harlinton is a world leading Rapid Transformational Therapist. </p>
+        </div>
+        
+        </div>
     </div>
-  </div>
 </div>
 <div class="col-7">
     <p><h3>What Is RTT®?</h3>
@@ -48,7 +44,6 @@ require_once 'includes/header.php';
         via hypnosis that would not be possible if they were simply trying to access the 
         subconscious mind via altered language and self-talk.
     </p>
- 
 
     <p>
         Your RTT® therapist is equipped with an array of techniques and tools that are crucial,

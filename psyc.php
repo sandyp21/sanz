@@ -12,27 +12,26 @@ require_once 'includes/header.php';
 <div class="container1 text-black">
 
 <div class="row">
-<div class="col-5">
-<div class="col">
-    <div class="card h-100">
-      <img src="uploads/drsoh.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Dr. Jian Soh</h5>
-      </div>
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item">Psychotherapist</li>
-        <li class="list-group-item">Counsellor</li>
-        <li class="list-group-item">Life Coach</li>
-    </ul>
+    <div class="col-5">
+        <div class="col">
+            <div class="card h-100">
+            <img src="uploads/drsoh.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Dr. Jian Soh</h5>
+                <p>Dr Soh is our own world renown psychologist.</p>
+            </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
+
+
+
 <div class="col-7">
     <p><h3>What Is Psychotherapy?</h3>
     Also known as talk therapy, psychotherapy aims to help a person understand their feelings 
     and equip them to face new challenges, both in the present and the future. Psychotherapy is similar
-     to counseling, and the two can overlap. However, the former tends to look more deeply, 
-     addressing the underlying causes of a person’s problems as well as how to solve them.
+    to counseling, and the two can overlap. However, the former tends to look more deeply, 
+    addressing the underlying causes of a person’s problems as well as how to solve them.
     </P>
 
     <p>
@@ -42,7 +41,13 @@ require_once 'includes/header.php';
     low self-esteem, addiction, bereavement, or other factors leave a person feeling overwhelmed. 
     It can also help treat bipolar disorder, schizophrenia, and certain other mental health conditions.
     </p>
+</div>
+</div>
+</div>
 
+<div class="container1 text-black">
+    <div class="row">
+        <div class="col">
     <p><h4>Who can benefit?</h4>
     Psychotherapy can help people in a range of situations. For example, it may benefit someone who:
     </p>
@@ -60,19 +65,20 @@ require_once 'includes/header.php';
     </p>
     <p><h5>Cognitive behavioral therapy</h5></p>
     <p>Cognitive behavioral therapy, or CBT, is a short-term therapy technique that can help people find new ways
-     to behave by changing their thought patterns.<br>
-     CBT can help people with many issues, including:</p>
+        to behave by changing their thought patterns.<br>
+        CBT can help people with many issues, including:</p>
 
     <li>depression</li>
     <li>anxiety</li>
     <li>post-traumatic stress disorder</li>
     <li>eating disorders</li>
     <li>low self-esteem</li>
+</div>
+</div>
+</div>
 
-    
-</div>
-</div>
-</div>
+
+
 <br>
 
 
@@ -85,18 +91,18 @@ require_once 'includes/header.php';
     One of the major criticisms leveled against psychotherapy calls into question its effectiveness. 
     In one early and frequently cited study, a psychologist named Hans Eysenck found that two-thirds 
     of participants either improved or recovered on their own within two years, regardless of whether
-     they had received psychotherapy.
+    they had received psychotherapy.
     </P>
 
     <p><h4>How to Know If You Need Psychotherapy </h4>
     You might realize that psychotherapy can help with life's problems, but it can still be difficult
-     to seek help or to even recognize when it is time to talk to a professional.
+    to seek help or to even recognize when it is time to talk to a professional.
     <br>
     Some key signs that it might be time to see a psychotherapist include:
     </p>
     <li>The issue is causing significant distress or disruption in your life. If you feel that the 
     problem you are facing interrupts a number of important areas of your life including school,
-     work, and relationships, it may be time to see if psychotherapy can help.</li><br>
+    work, and relationships, it may be time to see if psychotherapy can help.</li><br>
     <li>You are relying on unhealthy or dangerous coping mechanisms. If you find yourself dealing 
     with your problem by smoking, drinking, overeating, or taking out your frustrations on others, 
     seeking assistance can help you find healthier and more beneficial coping strategies.</li><br>
@@ -111,6 +117,8 @@ require_once 'includes/header.php';
 </div>
 </div>
 </div>
+</div>
+
 <br>
 <br>
 

@@ -18,14 +18,8 @@ require_once 'includes/header.php';
       <img src="uploads/drkent.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Dr. Monica Kent</h5>
-        
+        <p>Dr Kent has been studying Qi Gong for the last 30 years.</p>
       </div>
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item">Qi Gong Therapist</li>
-        <li class="list-group-item">Reflexologist</li>
-        <li class="list-group-item">Counsellor/Life Coach</li>
-    </ul>
-    
     </div>
   </div>
   </div>

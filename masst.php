@@ -18,13 +18,7 @@ require_once 'includes/header.php';
       <img src="uploads/drtomlin.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Dr. Ric Tomlin</h5>
-        <p class="card-text">Dr. Tomlin is a Registered Massage Therapist with NHPC. He finished International
-             School of Massage Therapy and Physical Rehabilitation at Ukraine in 2003. He also has
-              a M. Sc in Olympic and Professional Sports  majoring in Athletics and Swimming Coaching.
-               Has 12 years of experience in both Massage Therapy and Coaching. Specializes in sports massage,
-                therapeutic treatments and deep relaxation techniques. Ric likes to use his forearms, knuckles
-                 and elbow stripping techniques to go deep into the muscles and release tension and stiffness. 
-                 Book your appointment with Ric and enjoy European Massage Therapy style and techniques.</p>
+        <p class="card-text">Dr. Tomlin is a Registered Massage Therapist with experience in sports massage. </p>
       </div>
     </div>
     </div>
@@ -46,6 +40,7 @@ require_once 'includes/header.php';
     
 
         </div>
+</div>
 <br>
 
 
