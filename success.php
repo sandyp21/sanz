@@ -67,6 +67,8 @@
         </div>
     </div>
  -->
+ 
+
  <img src="<?php echo $destination; ?>" onerror="this.src='uploads/blank.png'" class="rounded-circle" style="width: 20%; height: 20%" />
     <div class="card" style="width: 18rem;">
         <div class="card-body">
